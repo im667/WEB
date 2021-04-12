@@ -1,0 +1,84 @@
+
+body{
+    margin:auto 0;
+    background-color: cornsilk;
+}
+h1{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 16px;
+    text-decoration: none;
+}
+.index-navi{
+    display: flex;
+    list-style: none;
+    background: rgb(255, 172, 78);
+    margin:0;
+    justify-content: center;
+    align-items: center;
+}
+
+li{
+    margin:4px;
+    padding: 8px;
+}
+
+#home{
+    color:brown;
+    padding: 24px;
+    text-decoration: none;
+}
+#menu{
+    color:brown;
+    padding: 8px;
+    text-decoration: none;
+    height:12px;
+}
+#menu3{
+    color:cornsilk;
+    padding: 8px;
+    text-decoration: none;
+    height:12px;
+}
+    
+h2{
+        margin-top:16px;
+        margin-bottom: 8px;
+        text-align: center;
+    }
+.container{
+    padding: 16px;
+    padding-top: 8px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.cover{
+    position: relative;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.article{
+    text-align: center;
+}
+
+#hello{
+    width:100%;
+    height:52px;
+    background-color:rgba(255, 127, 80, 0.39);
+    text-align: center;
+}
+#hello p{
+    padding: 8px;
+    color:cornsilk;
+}
+footer{
+    position: fixed;
+    bottom:0;
+    left: 0;
+    width: 100%
+}
+.Tel{
+    color:black;
+}
